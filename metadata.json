@@ -1,0 +1,6 @@
+{
+  "name": "Pocket Smart AI",
+  "description": "Your Smart AI Assistant in Your Pocket. Ask questions, generate ideas, summarize information, learn new concepts, and get intelligent assistance anytime.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
